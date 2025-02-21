@@ -32,10 +32,7 @@ Example overview:
 |   1    |*spde_aniso*:          |Anisotropic version of *spde.cpp*.            |          |
 |   1    |*spde*:                |Illustration SPDE/INLA approach to spatial modelling via Matern correlation function.                                         |          |
 |   1    |*thetalog*:            |Theta logistic population model from Pedersen et al 2012, Ecol. Modelling.                                                    |          |
-|   1    |*transform2*:          |Beta distributed random effects using copulas.
-                                                              |          |
+|   1    |*transform2*:          |Beta distributed random effects using copulas.|          |
 |   1    |*transform_parallel*:  |Parallel version of transform.       |          |
-|   1    |*transform*:           |Gamma distributed random effects using copulas.
-                                                              |          |
-|   1    |*tweedie*:             |Estimating parameters in a Tweedie distribution.
-                                                              |          |
+|   1    |*transform*:           |Gamma distributed random effects using copulas.|          |
+|   1    |*tweedie*:             |Estimating parameters in a Tweedie distribution.|          |
