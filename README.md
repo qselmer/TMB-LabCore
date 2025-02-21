@@ -4,8 +4,6 @@ TMB-LabCore: A space dedicated to practicing, exploring, and developing skills i
 ## Description
 Each folder contains a TMB example. If both examp.cpp and examp.Rmd exist, then examp is considered a valid example. Each example is associated with a file named examp.expected.RData, which contains the correct output from a reference test machine.
 
-
-----------------------------------------------------------------------------
 Example overview:
 
 | **N°** | **Example**           | **Description**                     |**Implemented**|
