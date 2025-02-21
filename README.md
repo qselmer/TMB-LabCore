@@ -1,11 +1,3 @@
-<style>
-  table td:nth-child(4) {
-    text-align: center;
-  }
-</style>
-
-----------------------------------------------------------------------------
-
 # TMB-LabCore
 TMB-LabCore: A space dedicated to practicing, exploring, and developing skills in TMB programming.
 
@@ -26,8 +18,7 @@ Example overview:
 |   1    |*linreg_parallel*:     |Parallel linear regression.          |          |
 |   1    |*longlinreg*:          |Linear regression -10^6 observations.|          |
 |   1    |*lr_test*:             |Illustrate map feature of TMB to perform likelihood ratio tests on a ragged array dataset.                                       |          |
-|   1    |*matern*:              |Gaussian process with Matern covariance.
-                                                                       |          |
+|   1    |*matern*:              |Gaussian process with Matern covariance.|          |
 |   1    |*mvrw*:                |Random walk with multivariate correlated increments and measurement noise.                                                     |          |
 |   1    |*mvrw_sparse*:         |Identical with random walk example. Utilizing sparse block structure so efficient when the number of states is high.              |          |
 |   1    |*nmix*:                |nmix example from NCEAS.             |          |         
